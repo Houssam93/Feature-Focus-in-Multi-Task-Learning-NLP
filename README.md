@@ -15,7 +15,7 @@ not after each batch. This issue will be improved in future relases
 ## Relevant papers
 If using the code, please cite our paper (Will be available soon): 
 ```
-@inproceedings{BalikasECIR2019,
+@inproceedings{AkhmouchACL2021,
         Author = {Akhmouch, Houssam and Dias, Ga\"el and Moreno, Jose G },
         Booktitle = {59th Annual Meeting of the Association for Computational Linguistics (Findings) ACL},
         Title = {Understanding Feature Focus in Multitask Settingsfor Lexico-semantic Relation Identification},
