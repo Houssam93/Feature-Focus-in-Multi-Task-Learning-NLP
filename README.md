@@ -13,7 +13,7 @@ The data of the paper are on the `data` directory. The notebook also assumes acc
 not after each batch. This issue will be improved in future relases
 
 ## Relevant papers
-If using the code, please cite our paper (Will be available soon): 
+If using the code, please cite our paper : 
 ```
 @inproceedings{AkhmouchACL2021,
         Author = {Akhmouch, Houssam and Dias, Ga\"el and Moreno, Jose G },
